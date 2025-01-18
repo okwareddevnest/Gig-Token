@@ -81,7 +81,3 @@ await contract.selfDestruct().send();
 - Temporary balances are valid for 120 days from injection
 - Transaction details are hashed for privacy
 - The contract can be destroyed by the owner after expiration
-
-## License
-
-MIT License 
